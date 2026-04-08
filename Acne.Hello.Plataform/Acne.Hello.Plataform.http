@@ -1,0 +1,6 @@
+@Acne.Hello.Plataform_HostAddress = http://localhost:5003
+
+GET {{Acne.Hello.Plataform_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
